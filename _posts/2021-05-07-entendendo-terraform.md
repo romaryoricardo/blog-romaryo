@@ -95,10 +95,10 @@ Neste outro exemplo, estamos:
 
 * Exibindo na tela o resultado, `output "show-vcn" {}`
 
-Veja que é não é complexo entender um código terraform.
+Veja que não é complexo entender um código terraform.
 
 
-Então pessoal, Isso é uma introdução de como funciona o terraform e seus providers, em breve trarei outros posts mais **hands on**, utilizando o terraform.
+Então pessoal, isso é uma introdução de como funciona o Terraform e seus providers, em breve trarei outros posts mais **hands on**, utilizando o terraform.
 
 Qualquer dúvida, sugestão ou crítica são bem-vindas.
 
