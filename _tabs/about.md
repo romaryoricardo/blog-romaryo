@@ -34,4 +34,4 @@ Hoje eu sou um **Engenheiro DevOps** que tenta todos os dias aprender algo novo.
 
 </div>
 <br>
-Caso queira me enviar uma mensagem, da conferida nos meus [**contatos**](/tabs/contact) e bora bater um papo sobre mudar o mundo com a TI.
+Caso queira me enviar uma mensagem, da conferida nos meus [**contatos**](/contact) e bora bater um papo sobre mudar o mundo com a TI.
